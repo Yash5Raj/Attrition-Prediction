@@ -1,0 +1,4 @@
+* research on Attrition in companies in india
+* how various factors are affecting attrition in companies
+	* INFERENCE - where we are trying to understand realtionship between factors
+* have to find out the standard benchmark for attrition rate
